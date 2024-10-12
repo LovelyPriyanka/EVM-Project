@@ -1,0 +1,6 @@
+C:\Users\reddy\source\repos\Term2EVMProject\Term2EVMProject\x64\Debug\Term2EVMProject.vcxproj.AssemblyReference.cache
+C:\Users\reddy\source\repos\Term2EVMProject\Term2EVMProject\x64\Debug\Term2EVMProject.MyForm.resources
+C:\Users\reddy\source\repos\Term2EVMProject\Term2EVMProject\x64\Debug\Term2EVMProject.vcxproj.GenerateResource.cache
+C:\Users\reddy\source\repos\Term2EVMProject\Term2EVMProject\x64\Debug\Term2EVMProject.MyForm1.resources
+C:\Users\reddy\source\repos\Term2EVMProject\Term2EVMProject\x64\Debug\Term2EVMProject.MyForm2.resources
+C:\Users\reddy\source\repos\Term2EVMProject\Term2EVMProject\x64\Debug\Term2EVMProject.MyForm3.resources
